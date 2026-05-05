@@ -24,3 +24,8 @@
  5. Use case 
  - Web and apps development 
  - System Apps, Games, Backend
+
+# JavaScript/ECMAScript Resources 
+- w3schools 
+- https://tc39.es/ecma262/#sec-intro
+- javascript mdn documentation 
